@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Publications:
+* [Age Estimation from B-mode Echocardiography with 3D Convolutional Neural Networks (Master's thesis)](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2622326)
+* [Detection of Cardiac Events in Echocardiography Using 3D Convolutional Recurrent Neural Networks](https://scholar.google.no/citations?view_op=view_citation&hl=no&user=Sql50pkAAAAJ&citation_for_view=Sql50pkAAAAJ:IjCSPb-OGe4C)
+
+![Project euler](https://projecteuler.net/profile/Adrianmfi.png)
